@@ -1,1 +1,2 @@
-# Google-HomePage-2
+# Google HomePage
+# The Odin Project
